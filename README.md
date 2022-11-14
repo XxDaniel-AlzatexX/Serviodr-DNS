@@ -1,2 +1,2 @@
 # Serviodr-DNS
-Proyecto realizado en el 2022. Consiste en un servidor dns realizado en Java. Recibe solicitudes por medio de IPv4 y hace buen uso del RFC 1035
+Project carried out in 2022. It consists of a dns server made in Java. Receives requests through IPv4 and makes good use of RFC 1035. Project already finished.
